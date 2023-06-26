@@ -7,10 +7,15 @@ Com quase 3 anos de experiência na área e tive a oportunidade de explorar dife
 <img src='US.png?raw=true' width='21' height='15'> I'm Letícia Cúgnier, a passionate software developer and technology enthusiast. She currently works as a Junior FullStack Developer at UPPERCASE Consultoria. /br
 With almost 3 years of experience in the area and I had the opportunity to explore different technologies.
 ##
-<img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=LeticiaCugnier&repo=github&theme=dark&hide_border=false&include_all_commits=false&count_private=false"  width="364px" />                    
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=LeticiaCugnier&repo=github&theme=dak&hide_border=false"  width="400px" />
 
-
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=LeticiaCugnier&rank_icon=github&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=LeticiaCugnier&rank_icon=github&show_icons=true" />
+</picture>
+ate aqui ok
 <div style="display: inline_block"><br>
   <img align="center" alt="Let-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Let-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
