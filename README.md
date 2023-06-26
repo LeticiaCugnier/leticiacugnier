@@ -4,11 +4,12 @@
 Com quase 3 anos de experiência na área e tive a oportunidade de explorar diferentes tecnologias.
 
 
-I'm Letícia Cúgnier, a passionate software developer and technology enthusiast. She currently works as a Junior FullStack Developer at UPPERCASE Consultoria. /br
+<img src='US.png?raw=true' width='21' height='15'> I'm Letícia Cúgnier, a passionate software developer and technology enthusiast. She currently works as a Junior FullStack Developer at UPPERCASE Consultoria. /br
 With almost 3 years of experience in the area and I had the opportunity to explore different technologies.
+##
+<img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=LeticiaCugnier&repo=github&theme=dark&hide_border=false&include_all_commits=false&count_private=false"  width="364px" />                    
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=LeticiaCugnier&repo=github&theme=dak&hide_border=false"  width="400px" />
 
-<img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=LeticiaCugnier&theme=neon&hide_border=false&include_all_commits=false&count_private=false"  width="364px" />                    <img src="https://github-readme-streak-stats.herokuapp.com/?user=LeticiaCugnier&theme=neon&hide_border=false"  width="400px" />
-![](https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=LeticiaCugnier&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Let-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
