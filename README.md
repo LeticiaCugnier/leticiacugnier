@@ -1,6 +1,6 @@
 ## Oiii! Eu sou a Letícia Cúgnier 
 
-<img src='png/BR@2x.png?raw=true' width='21' height='15'> Sou Letícia Cúgnier, uma desenvolvedora de software apaixonada e entusiasta de tecnologia. Atualmente trabalho como Desenvolvedora Júnior FullStack na UPPERCASE Consultoria. </br>
+<img src='png/BR.png?raw=true' width='21' height='15'> Sou Letícia Cúgnier, uma desenvolvedora de software apaixonada e entusiasta de tecnologia. Atualmente trabalho como Desenvolvedora Júnior FullStack na UPPERCASE Consultoria. </br>
 Com quase 3 anos de experiência na área e tive a oportunidade de explorar diferentes tecnologias.
 
 
