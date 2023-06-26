@@ -1,9 +1,15 @@
 ## Oiii! Eu sou a Letícia Cúgnier 
- <div>
-  <a href="https://github.com/LeticiaCugnier">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=LeticiaCugnier&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeticiaCugnier&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+
+<img src='png/BR@2x.png?raw=true' width='21' height='15'> Sou Letícia Cúgnier, uma desenvolvedora de software apaixonada e entusiasta de tecnologia. Atualmente trabalho como Desenvolvedora Júnior FullStack na UPPERCASE Consultoria. </br>
+Com quase 3 anos de experiência na área e tive a oportunidade de explorar diferentes tecnologias.
+
+
+I'm Letícia Cúgnier, a passionate software developer and technology enthusiast. She currently works as a Junior FullStack Developer at UPPERCASE Consultoria. /br
+With almost 3 years of experience in the area and I had the opportunity to explore different technologies.
+
+<img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=LeticiaCugnier&theme=neon&hide_border=false&include_all_commits=false&count_private=false"  width="364px" />                    <img src="https://github-readme-streak-stats.herokuapp.com/?user=LeticiaCugnier&theme=neon&hide_border=false"  width="400px" />
+![](https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=LeticiaCugnier&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Let-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Let-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
