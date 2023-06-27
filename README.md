@@ -1,13 +1,9 @@
-## Oiiie ❦ 
+## Oiiie ❦   <img align="right" alt="Let-git" src="https://i.picasion.com/pic91/1cb058e7b5e538cdf66ad67ed078d53f.gif">
+
 
 <img src='flags/BR.png?raw=true' width='21' height='15'> Sou Letícia Cúgnier, uma desenvolvedora de software apaixonada e entusiasta de tecnologia. Atualmente trabalho como Desenvolvedora Júnior FullStack na UPPERCASE Consultoria. </br>
 Com quase 3 anos de experiência na área e tive a oportunidade de explorar diferentes tecnologias.
-
-
-<img src='flags/US.png?raw=true' width='21' height='15'> I'm Letícia Cúgnier, a passionate software developer and technology enthusiast. She currently works as a Junior FullStack Developer at UPPERCASE Consultoria. /br
-With almost 3 years of experience in the area and I had the opportunity to explore different technologies.
 ##
-
 
 <picture>
   <source
@@ -16,6 +12,14 @@ With almost 3 years of experience in the area and I had the opportunity to explo
   />
   <img src="https://github-readme-stats.vercel.app/api?username=LeticiaCugnier&rank_icon=github&show_icons=true" />
 </picture>
+
+<img src='flags/US.png?raw=true' width='21' height='15'> I'm Letícia Cúgnier, a passionate software developer and technology enthusiast. She currently works as a Junior FullStack Developer at UPPERCASE Consultoria. /br
+With almost 3 years of experience in the area and I had the opportunity to explore different technologies.
+# 🚀 Expertise
+
+My primary focus is on frontend development, where I specialize in building interactive and user-friendly web applications. I have extensive knowledge of HTML, CSS, JavaScript and Typescript, and I'm proficient in popular frameworks and libraries such as React and VUE. </br> 
+I love working on the frontend because it allows me to combine my creativity with problem-solving skills to deliver exceptional user experiences.
+
 ate aqui ok
 <div style="display: inline_block"><br>
   <img align="center" alt="Let-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -29,7 +33,6 @@ ate aqui ok
   <img align="center" alt="Let-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg">
   <img align="center" alt="Let-Cplusplus" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
   <img align="center" alt="Let-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="right" alt="Let-git" src="https://i.picasion.com/pic91/1cb058e7b5e538cdf66ad67ed078d53f.gif">
 </div>
   
   ##
