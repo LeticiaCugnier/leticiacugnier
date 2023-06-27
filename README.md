@@ -1,12 +1,13 @@
-## Oiiie ❦
+## Oiiie ❦ 
 
-<img src='BR.png?raw=true' width='21' height='15'> Sou Letícia Cúgnier, uma desenvolvedora de software apaixonada e entusiasta de tecnologia. Atualmente trabalho como Desenvolvedora Júnior FullStack na UPPERCASE Consultoria. </br>
+<img src='flags/BR.png?raw=true' width='21' height='15'> Sou Letícia Cúgnier, uma desenvolvedora de software apaixonada e entusiasta de tecnologia. Atualmente trabalho como Desenvolvedora Júnior FullStack na UPPERCASE Consultoria. </br>
 Com quase 3 anos de experiência na área e tive a oportunidade de explorar diferentes tecnologias.
 
 
-<img src='US.png?raw=true' width='21' height='15'> I'm Letícia Cúgnier, a passionate software developer and technology enthusiast. She currently works as a Junior FullStack Developer at UPPERCASE Consultoria. /br
+<img src='flags/US.png?raw=true' width='21' height='15'> I'm Letícia Cúgnier, a passionate software developer and technology enthusiast. She currently works as a Junior FullStack Developer at UPPERCASE Consultoria. /br
 With almost 3 years of experience in the area and I had the opportunity to explore different technologies.
 ##
+
 
 <picture>
   <source
