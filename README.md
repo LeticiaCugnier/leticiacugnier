@@ -9,10 +9,10 @@ With almost 3 years of experience in the area and I had the opportunity to explo
 
 # 🚀 Expertise
 Meu foco principal é o desenvolvimento back-end, onde me especializei na criação de sites interativos e responsivos. Possuo amplo conhecimento em C#, Python, HTML, CSS, JavaScript e Typescript.
-Adoro trabalhar com backend e frontend gosto de ver o projeto como um todo, as frustrações dos desafios, o processo de criação do frontend e o desenvolvimento do backend, onde me permite aliar a minha criatividade com habilidades de resolução de problemas.
+Adoro trabalhar com backend e frontend, gosto de ver o projeto como um todo, as frustrações dos desafios, o processo de criação do frontend e o desenvolvimento do backend, onde me permite aliar a minha criatividade com habilidades de resolução de problemas.
 
 My main focus is back-end development, where I specialize in creating interactive and responsive websites. I have extensive knowledge in C#, Python, HTML, CSS, JavaScript and Typescript.
-I love working with backend and frontend I like to see the project as a whole, the frustrations of the challenges, the frontend creation process and the backend development, where it allows me to combine my creativity with problem solving skills.
+I love working with backend and frontend, I like to see the project as a whole, the frustrations of the challenges, the frontend creation process and the backend development, where it allows me to combine my creativity with problem solving skills.
 
 # 💻 Tech Stack
 
