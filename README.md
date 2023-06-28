@@ -51,14 +51,14 @@ I love working with backend and frontend I like to see the project as a whole, t
  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leticiacugnier/)
  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato.leticiacugnier@gmail.com)
  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/fumbling182)
- #
+ # 📊 GitHub Stats:
  <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=LeticiaCugnier&rank_icon=github&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=LeticiaCugnier&rank_icon=github&show_icons=true" />
-</picture>
-
+   <img src="https://github-readme-stats.vercel.app/api?username=LeticiaCugnier&rank_icon=github&show_icons=true" />
+ </picture>
+ 
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
