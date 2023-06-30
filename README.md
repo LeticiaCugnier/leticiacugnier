@@ -3,18 +3,18 @@
 ## Oiiie ❦   
 <img align="right" alt="Let-git" src="https://i.picasion.com/pic92/ab04e9dd3160dfab0eedef0ae9ca055a.gif">
 
-<img src='flags/BR.png?raw=true' width='21' height='15'> Sou Letícia Cúgnier, uma desenvolvedora de software apaixonada e entusiasta de tecnologia. Atualmente trabalho como Desenvolvedora Júnior FullStack na UPPERCASE Consultoria. </br>
+<img src='flags/BR.png?raw=true' width='21' height='15'> Sou Letícia Cúgnier, uma desenvolvedora de software apaixonada e entusiasta de tecnologia. Atualmente trabalho como Desenvolvedora FullStack na UPPERCASE Consultoria. </br>
 Com quase 3 anos de experiência na área e tive a oportunidade de explorar diferentes tecnologias.
 
-<img src='flags/US.png?raw=true' width='21' height='15'> I'm Letícia Cúgnier, a passionate software developer and technology enthusiast. She currently works as a Junior FullStack Developer at UPPERCASE Consultoria. /br
+<img src='flags/US.png?raw=true' width='21' height='15'> I'm Letícia Cúgnier, a passionate software developer and technology enthusiast. I currently work as a FullStack Developer at UPPERCASE Consultoria. /br
 With almost 3 years of experience in the area and I had the opportunity to explore different technologies.
 
 # 🚀 Expertise
-Meu foco principal é o desenvolvimento back-end, onde me especializei na criação de sites interativos e responsivos. Possuo amplo conhecimento em C#, Python, HTML, CSS, JavaScript e Typescript.
+Meu foco principal é o desenvolvimento backend, onde me especializei na criação de sites interativos e responsivos. Possuo amplo conhecimento em C#, Python, HTML, CSS, JavaScript e Typescript.
 Adoro trabalhar com backend e frontend, gosto de ver o projeto como um todo, as frustrações dos desafios, o processo de criação do frontend e o desenvolvimento do backend, onde me permite aliar a minha criatividade com habilidades de resolução de problemas.
 
-My main focus is back-end development, where I specialize in creating interactive and responsive websites. I have extensive knowledge in C#, Python, HTML, CSS, JavaScript and Typescript.
-I love working with backend and frontend, I like to see the project as a whole, the frustrations of the challenges, the frontend creation process and the backend development, where it allows me to combine my creativity with problem solving skills.
+My main focus is backend development, where I specialize in creating interactive and responsive websites. I have extensive knowledge in C#, Python, HTML, CSS, JavaScript, and Typescript.
+I love working with backend and front-end, I like to see the project as a whole, the frustrations of the challenges, the frontend creation process, and the backend development, which allows me to combine my creativity with problem-solving skills.
 
 # 💻 Tech Stack
 
