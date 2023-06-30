@@ -1,5 +1,5 @@
-## Oiiie ❦   <img align="right" alt="Let-git" src="https://i.picasion.com/pic91/1cb058e7b5e538cdf66ad67ed078d53f.gif">
-
+## Oiiie ❦   
+<img align="right" alt="Let-git" src="https://i.picasion.com/pic92/ab04e9dd3160dfab0eedef0ae9ca055a.gif">
 
 <img src='flags/BR.png?raw=true' width='21' height='15'> Sou Letícia Cúgnier, uma desenvolvedora de software apaixonada e entusiasta de tecnologia. Atualmente trabalho como Desenvolvedora Júnior FullStack na UPPERCASE Consultoria. </br>
 Com quase 3 anos de experiência na área e tive a oportunidade de explorar diferentes tecnologias.
