@@ -8,7 +8,7 @@ Com quase 3 anos de experiência na área e tive a oportunidade de explorar dife
 
 <img src='flags/US.png?raw=true' width='21' height='15'> I'm Letícia Cúgnier, a passionate software developer and technology enthusiast. She currently works as a Junior FullStack Developer at UPPERCASE Consultoria. /br
 With almost 3 years of experience in the area and I had the opportunity to explore different technologies.
-
+</ br>
 # 🚀 Expertise
 Meu foco principal é o desenvolvimento back-end, onde me especializei na criação de sites interativos e responsivos. Possuo amplo conhecimento em C#, Python, HTML, CSS, JavaScript e Typescript.
 Adoro trabalhar com backend e frontend, gosto de ver o projeto como um todo, as frustrações dos desafios, o processo de criação do frontend e o desenvolvimento do backend, onde me permite aliar a minha criatividade com habilidades de resolução de problemas.
