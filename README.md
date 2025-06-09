@@ -1,77 +1,84 @@
-<b>Em processo de atualização!</b>
+<p align="center">
+<b>Em processo de atualização! <img src="https://i.gifer.com/ZZ5H.gif" width="25" /></b>
+<p align="center">
+<img src="https://i.picasion.com/pic92/ab04e9dd3160dfab0eedef0ae9ca055a.gif" width="150" alt="leticia-gif"></p>
 
-## ....❦
-<img align="right" alt="Let-git" src="https://i.picasion.com/pic92/ab04e9dd3160dfab0eedef0ae9ca055a.gif">
+### 🇧🇷 Sobre mim
 
-<img src='flags/BR.png?raw=true' width='21' height='15'> Oiie! Me chamo Letícia, sou apaixonada por tecnologia e pelo poder que o software tem de transformar realidades.
-Atualmente, trabalho como Analista de Dados na PITICAS e tenho 4 anos de experiência como desenvolvedora full stack, com foco em C#, versionamento com Git e um amor especial por códigos bem estruturados e elaborados.
-Ao longo da minha jornada, já explorei diversas tecnologias, sempre com o objetivo de aprender mais e entregar soluções que realmente fazem a diferença.
+<img src='flags/BR.png?raw=true' width='21' height='15'> Olá! Me chamo **Letícia**, sou apaixonada por tecnologia e pelo poder que o software tem de transformar realidades.  
+Atualmente sou **Analista de Dados na PITICAS**, com **4 anos de experiência como desenvolvedora full stack**, com foco em **C#**, versionamento com **Git** e um amor por **códigos limpos e bem estruturados**.
 
-<img src='flags/US.png?raw=true' width='21' height='15'> Hey there! My name is Letícia, and I'm passionate about technology and the power software has to transform realities.
-I'm currently working as a Data Analyst at PITICAS and have 4 years of experience as a full stack developer, focusing on C#, Git version control, and a special love for clean, well-structured code.
-Throughout my journey, I’ve explored a variety of technologies, always aiming to keep learning and to deliver solutions that truly make a difference.
+Comecei no back-end, mas minha paixão por front-end cresceu com o tempo. Gosto de participar de todas as etapas do projeto, da ideia inicial até os resultados — que é o que mais amo acompanhar!
 
-# 🚀 Expertise
-<img src='flags/BR.png?raw=true' width='21' height='15'> Meu foco inicial foi no desenvolvimento back-end, mas, ao longo dos meus dois primeiros anos na área, comecei a me interessar cada vez mais por front-end. Sempre fui o tipo de pessoa que gosta de participar de todas as etapas de um projeto — do início ao fim (mas o que eu amo mesmo é acompanhar os resultados!).
+---
 
-Possuo amplo conhecimento em C#, Python, React, Angular, HTML, CSS, JavaScript e TypeScript.
-Adoro ser full stack e gosto de enxergar o projeto como um todo: os desafios que surgem, o processo criativo do front-end, o desenvolvimento sólido do back-end... tudo isso me permite unir minha criatividade com minhas habilidades de resolução de problemas.
+### 🇺🇸 About me
 
-Atualmente, estou em um novo desafio profissional, atuando como Analista de Dados.
+<img src='flags/US.png?raw=true' width='21' height='15'> Hey! I'm **Letícia**, passionate about technology and how software can transform realities.  
+I'm currently a **Data Analyst at PITICAS** and have **4 years of experience as a full stack developer**, focusing on **C#**, **Git**, and a special love for **clean, well-structured code**.
 
-<img src='flags/US.png?raw=true' width='21' height='15'> My initial focus was on back-end development, but throughout my first two years in the field, I became increasingly interested in front-end. I've always been the kind of person who enjoys being involved in every stage of a project — from start to finish (though what I truly love is seeing the results!).
-
-I have solid knowledge in C#, Python, React, Angular, HTML, CSS, JavaScript, and TypeScript.
-I love being full stack and seeing the project as a whole: the challenges that arise, the creative process of the front-end, and the solid construction of the back-end. It all allows me to combine my creativity with my problem-solving skills.
-
-Currently, I'm embracing a new professional challenge as a Data Analyst.
-# 💻 Tech Stack
-
-<a href="https://www.typescriptlang.org/" title="Typescript"><img src="https://github.com/get-icon/geticon/raw/master/icons/typescript-icon.svg" alt="Typescript" width="30px" height="40px"></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="JavaScript" width="30px" height="40px"></a>
-<a href="https://reactjs.org/" title="React"><img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="React" width="30px" height="40px"></a>
-<a href="https://angular.io/" title="Angular"><img src="https://github.com/get-icon/geticon/raw/master/icons/angular-icon.svg" alt="Angular" width="30px" height="40px"></a>
-<a href="https://jquery.com/" title="jQuery"><img src="https://github.com/get-icon/geticon/raw/master/icons/jquery-icon.svg" alt="jQuery" width="30px" height="40px"></a>
-<a href="https://www.w3.org/TR/CSS/" title="CSS3"><img src="https://github.com/get-icon/geticon/raw/master/icons/css-3.svg" alt="CSS3" width="30px" height="40px"></a>
-<a href="https://getbootstrap.com/" title="Bootstrap"><img src="https://github.com/get-icon/geticon/raw/master/icons/bootstrap.svg" alt="Bootstrap" width="30px" height="40px"></a>
-<a href="https://www.w3.org/TR/html5/" title="HTML5"><img src="https://github.com/get-icon/geticon/raw/master/icons/html-5.svg" alt="HTML5" width="30px" height="40px"></a>
-<a href="https://nodejs.org/" title="Node.js"><img src="https://github.com/get-icon/geticon/raw/master/icons/nodejs-icon.svg" alt="Node.js" width="30px" height="40px"></a>
-<a href="https://www.java.com/" title="Java"><img src="https://github.com/get-icon/geticon/raw/master/icons/java.svg" alt="Java" width="30px" height="40px"></a>
-<a href="https://spring.io/" title="Spring"><img src="https://github.com/get-icon/geticon/raw/master/icons/spring.svg" alt="Spring" width="30px" height="40px"></a>
-<a href="https://www.python.org/" title="Python"><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="30px" height="40px"></a>
-<a href="https://learn.microsoft.com/pt-br/visualstudio/get-started/csharp/?view=vs-2022" title="csharp"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg" alt="csharp" width="30px" height="40px"></a>
-<a href="https://dotnet.microsoft.com/" title="csharp"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt="csharp" width="30px" height="40px"></a>
-<a href="https://www.djangoproject.com/" title="Django"><img src="https://github.com/get-icon/geticon/raw/master/icons/django.svg" alt="Django" width="30px" height="40px"></a>
-<a href="https://www.mongodb.org/" title="MongoDB"><img src="https://github.com/get-icon/geticon/raw/master/icons/mongodb-icon.svg" alt="MongoDB" width="30px" height="40px"></a>
-<a href="https://dev.mysql.com/" title="MySQL"><img src="https://github.com/get-icon/geticon/raw/master/icons/mysql.svg" alt="MySQL" width="30px" height="40px"></a>
-<a href="https://git-scm.com/" title="Git"><img src="https://github.com/get-icon/geticon/raw/master/icons/git-icon.svg" alt="Git" width="30px" height="40px"></a>
-<a href="https://www.npmjs.com/" title="npm"><img src="https://github.com/get-icon/geticon/raw/master/icons/npm.svg" alt="npm" width="30px" height="40px"></a>
-<a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://github.com/get-icon/geticon/raw/master/icons/visual-studio-code.svg" alt="Visual Studio Code" width="30px" height="40px"></a>
-<a href="https://www.sublimetext.com/" title="Sublime Text"><img src="https://github.com/get-icon/geticon/raw/master/icons/sublime-text.svg" alt="Sublime Text" width="30px" height="40px"></a>
-<a href="https://azure.microsoft.com/" title="Microsoft Azure"><img src="https://github.com/get-icon/geticon/raw/master/icons/azure-icon.svg" alt="Microsoft Azure" width="30px" height="40px"></a>
-<a href="https://www.firebase.com/" title="Firebase"><img src="https://github.com/get-icon/geticon/raw/master/icons/firebase.svg" alt="Firebase" width="30px" height="40px"></a>
-<a href="https://www.docker.com/" title="docker"><img src="https://github.com/get-icon/geticon/raw/master/icons/docker-icon.svg" alt="docker" width="30px" height="40px"></a>
-<a href="https://reactnative.dev/" title="React Native"><img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="React Native" width="30px" height="40px"></a>
-<a href="https://www.embarcadero.com/products/delphi" title="Delphi"><img src="https://github.com/get-icon/geticon/raw/master/icons/delphi.svg" alt="Delphi" width="30px" height="40px"></a>
-<a href="https://en.wikipedia.org/wiki/C_(programming_language)" title="C"><img src="https://github.com/get-icon/geticon/raw/master/icons/c.svg" alt="C" width="30px" height="40px"></a>
-<a href="https://www.adobe.com/products/photoshop.html" title="Adobe Photoshop"><img src="https://github.com/get-icon/geticon/raw/master/icons/adobe-photoshop.svg" alt="Adobe Photoshop" width="30px" height="40px"></a>
-<a href="https://www.adobe.com/products/illustrator.html" title="Adobe Illustrator"><img src="https://github.com/get-icon/geticon/raw/master/icons/adobe-illustrator.svg" alt="Adobe Illustrator" width="30px" height="40px"></a>
-
-![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black)
-  # 🌐 Socials:
- [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leticiacugnier/)
- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato.leticiacugnier@gmail.com)
- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/fumbling182)
- # 📊 GitHub Stats:
- <picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=LeticiaCugnier&rank_icon=github&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-   <img src="https://github-readme-stats.vercel.app/api?username=LeticiaCugnier&rank_icon=github&show_icons=true" />
- </picture>
- 
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+While I started with back-end, my interest in front-end grew, and today I love seeing the project as a whole — challenges, design, logic — all blending into creative solutions.
 
 
+---
 
+### 🚀 Expertise
+
+- 💻 Full Stack Development (C#, .NET, Python, JavaScript, TypeScript)
+- 🎨 Front-end Design (Angular, React, HTML/CSS, UX/UI)
+- 🧠 Data Analysis & BI (SQL, Power BI, Excel avançado)
+- 📦 Versionamento com Git e DevOps (Azure, Docker, Firebase)
+  
+---
+
+### 🧰 Tech Stack
+
+### 🌐 Front-End
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+
+### 🔧 Back-End
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+
+### 🧱 Banco de Dados
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+
+### ☁️ Ferramentas & DevOps
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+
+---
+
+### 🌐 Conecte-se comigo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leticiacugnier/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato.leticiacugnier@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/fumbling182)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LeticiaCugnier&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
+</p>
