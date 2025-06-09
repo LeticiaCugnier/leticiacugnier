@@ -1,21 +1,30 @@
 <b>Em processo de atualização!</b>
 
-## Oiiie ❦   
+## ....❦
 <img align="right" alt="Let-git" src="https://i.picasion.com/pic92/ab04e9dd3160dfab0eedef0ae9ca055a.gif">
 
-<img src='flags/BR.png?raw=true' width='21' height='15'> Sou Letícia Cúgnier, uma desenvolvedora de software apaixonada e entusiasta de tecnologia. Atualmente trabalho como Desenvolvedora Júnior FullStack na UPPERCASE Consultoria. </br>
-Com quase 3 anos de experiência na área e tive a oportunidade de explorar diferentes tecnologias.
+<img src='flags/BR.png?raw=true' width='21' height='15'> Oiie! Me chamo Letícia, sou apaixonada por tecnologia e pelo poder que o software tem de transformar realidades.
+Atualmente, trabalho como Analista de Dados na PITICAS e tenho 4 anos de experiência como desenvolvedora full stack, com foco em C#, versionamento com Git e um amor especial por códigos bem estruturados e elaborados.
+Ao longo da minha jornada, já explorei diversas tecnologias, sempre com o objetivo de aprender mais e entregar soluções que realmente fazem a diferença.
 
-<img src='flags/US.png?raw=true' width='21' height='15'> I'm Letícia Cúgnier, a passionate software developer and technology enthusiast. She currently works as a Junior FullStack Developer at UPPERCASE Consultoria. /br
-With almost 3 years of experience in the area and I had the opportunity to explore different technologies.
-</ br>
+<img src='flags/US.png?raw=true' width='21' height='15'> Hey there! My name is Letícia, and I'm passionate about technology and the power software has to transform realities.
+I'm currently working as a Data Analyst at PITICAS and have 4 years of experience as a full stack developer, focusing on C#, Git version control, and a special love for clean, well-structured code.
+Throughout my journey, I’ve explored a variety of technologies, always aiming to keep learning and to deliver solutions that truly make a difference.
+
 # 🚀 Expertise
-Meu foco principal é o desenvolvimento back-end, onde me especializei na criação de sites interativos e responsivos. Possuo amplo conhecimento em C#, Python, HTML, CSS, JavaScript e Typescript.
-Adoro trabalhar com backend e frontend, gosto de ver o projeto como um todo, as frustrações dos desafios, o processo de criação do frontend e o desenvolvimento do backend, onde me permite aliar a minha criatividade com habilidades de resolução de problemas.
+<img src='flags/BR.png?raw=true' width='21' height='15'> Meu foco inicial foi no desenvolvimento back-end, mas, ao longo dos meus dois primeiros anos na área, comecei a me interessar cada vez mais por front-end. Sempre fui o tipo de pessoa que gosta de participar de todas as etapas de um projeto — do início ao fim (mas o que eu amo mesmo é acompanhar os resultados!).
 
-My main focus is back-end development, where I specialize in creating interactive and responsive websites. I have extensive knowledge in C#, Python, HTML, CSS, JavaScript and Typescript.
-I love working with backend and frontend, I like to see the project as a whole, the frustrations of the challenges, the frontend creation process and the backend development, where it allows me to combine my creativity with problem solving skills.
+Possuo amplo conhecimento em C#, Python, React, Angular, HTML, CSS, JavaScript e TypeScript.
+Adoro ser full stack e gosto de enxergar o projeto como um todo: os desafios que surgem, o processo criativo do front-end, o desenvolvimento sólido do back-end... tudo isso me permite unir minha criatividade com minhas habilidades de resolução de problemas.
 
+Atualmente, estou em um novo desafio profissional, atuando como Analista de Dados.
+
+<img src='flags/US.png?raw=true' width='21' height='15'> My initial focus was on back-end development, but throughout my first two years in the field, I became increasingly interested in front-end. I've always been the kind of person who enjoys being involved in every stage of a project — from start to finish (though what I truly love is seeing the results!).
+
+I have solid knowledge in C#, Python, React, Angular, HTML, CSS, JavaScript, and TypeScript.
+I love being full stack and seeing the project as a whole: the challenges that arise, the creative process of the front-end, and the solid construction of the back-end. It all allows me to combine my creativity with my problem-solving skills.
+
+Currently, I'm embracing a new professional challenge as a Data Analyst.
 # 💻 Tech Stack
 
 <a href="https://www.typescriptlang.org/" title="Typescript"><img src="https://github.com/get-icon/geticon/raw/master/icons/typescript-icon.svg" alt="Typescript" width="30px" height="40px"></a>
